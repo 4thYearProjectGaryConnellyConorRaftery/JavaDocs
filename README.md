@@ -11,3 +11,5 @@ This repository contains the Java docs that were generated for the Java Database
 
 * When the browser opens, you will see this page. From here you can browse the java docs for the back-end/server-side of the "TheEazyTradesMan" application. 
 
+![Javadoc3](https://user-images.githubusercontent.com/22517451/56770478-fe001e80-67ab-11e9-9752-8e46448d4437.PNG)
+
